@@ -9,6 +9,8 @@ This project aims to predict instances of customers defaulting on their credit c
 
 The predictive model developed in this project can assist in identifying customers who are at a higher risk of defaulting on their credit card payments. This information can be crucial for financial institutions to proactively manage and mitigate potential financial risks.
 
+You can find the streamlit app that predicts the default on next month here https://defaultprediction.streamlit.app/
+
 ## Project Contents
 
 1. **Dataset:** The project utilizes a dataset containing historical information about customers, including their credit card usage, payment history, and other relevant features.
